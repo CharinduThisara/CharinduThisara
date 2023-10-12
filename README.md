@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharinduThisara
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Java Development and Cyber Security
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend/Backend Development
 - 📫 How to reach me ...
 
 <!---
