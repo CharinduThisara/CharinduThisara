@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Development and Cyber Security
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on Frontend/Backend Development
-- 📫 How to reach me ...
+- 📫 How to reach me ![EMAIl](mailto:thisaraimc@gmail.com)
 
 <!---
 CharinduThisara/CharinduThisara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
