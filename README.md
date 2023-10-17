@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharinduThisara
 - 👀 I’m interested in Java Development and Cyber Security
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on Frontend/Backend Development
+- 💞️ I’m looking to collaborate on Full-Stack Development
 - 📫 How to reach me [send me an EMAIL](mailto:thisaraimc@gmail.com)
 
 <!---
