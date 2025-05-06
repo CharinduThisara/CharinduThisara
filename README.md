@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Charindu Thisara
 
 🎓 Final-year Computer Science & Engineering undergraduate  
-💻 Passionate about **Java**, **Cyber Security**, and **DevOps**
+💻 Passionate about **Java**, **Cyber Security**, and **DevOps**  
+📫 [thisaraimc@gmail.com](mailto:thisaraimc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/charindu-thisara-45a5091a0/)
 
 ---
 
@@ -9,28 +10,9 @@
 
 - 📘 Learning advanced **CSE** topics  
 - 🛠️ Building **Full-Stack** & **DevOps** projects  
+- ☁️ Working with **CI/CD**, **Kubernetes**, **Terraform**, **Docker**, and **Cloud (AWS/Azure/GCP)**  
+- 🔧 Monitoring with **Prometheus** & **Grafana**  
 - 🤝 Open to collaborate on **Java / DevOps** work
-
----
-
-## 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:thisaraimc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/charindu-thisara-45a5091a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🛠️ DevOps & Cloud
-
-- CI/CD • Docker • Kubernetes  
-- Terraform • Helm • AWS/Azure/GCP  
-- Monitoring with Prometheus/Grafana
 
 ---
 
