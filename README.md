@@ -15,7 +15,7 @@
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/thisaraimc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisaraimc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/charindu-thisara-45a5091a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charindu-thisara-45a5091a0/)
 ---
 
 ## 🛠️ DevOps & Cloud Enthusiast
