@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CharinduThisara&show_icons=true&theme=radical" height="175" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharinduThisara&layout=compact&theme=radical" height="175" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="750"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="745"/>
 
 </div>
 
