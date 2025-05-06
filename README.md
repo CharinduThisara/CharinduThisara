@@ -9,9 +9,7 @@
 </h1>
 
 🎓 Final-year Computer Science & Engineering undergraduate  
-💻 Passionate about **Java**, **Cyber Security**, and **DevOps**  
-📫 
-📫 
+💻 Passionate about **Java**, **Cyber Security**, and **DevOps**
 
 ---
 
