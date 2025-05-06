@@ -53,10 +53,12 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharinduThisara&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharinduThisara&layout=compact&theme=radical" width="48%" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CharinduThisara&show_icons=true&theme=radical" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharinduThisara&layout=compact&theme=radical" width="100%"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="60%" />
