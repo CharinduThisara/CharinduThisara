@@ -10,6 +10,7 @@
 
 🎓 Final-year Computer Science & Engineering undergraduate  
 💻 Passionate about **Java**, **Cyber Security**, and **DevOps**
+
 ---
 
 ## 🚀 What I'm Up To
@@ -20,6 +21,7 @@
 - ☁️ Working with **CI/CD**, **Kubernetes**, **Terraform**, **Docker**, and cloud platforms (**AWS**, **Azure**, **GCP**)  
 - 🔧 Experienced with **monitoring and observability** using **Prometheus** & **Grafana**  
 - 🤝 Open to collaborate on **Spring Boot**, **cloud**, or infrastructure projects
+  
 ---
 
 ## 🧰 Tools & Languages
@@ -36,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="35" />
 </p>
+
 ---
 
 ## 📊 GitHub Insights
@@ -48,6 +51,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="700"/>
 
 </div>
+
 ---
 
 <p align="right">
