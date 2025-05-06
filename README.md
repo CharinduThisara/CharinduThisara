@@ -1,15 +1,14 @@
-# 👋 Hi, I'm Charindu Thisara
-
-🎓 Final-year Computer Science & Engineering undergraduate  
-💻 Passionate about **Java**, **Cyber Security**, and **DevOps**  
-📫 
-📫  
-<a href="mailto:thisaraimc@gmail.com">
+# 👋 Hi, I'm Charindu Thisara <a href="mailto:thisaraimc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/charindu-thisara-45a5091a0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+
+🎓 Final-year Computer Science & Engineering undergraduate  
+💻 Passionate about **Java**, **Cyber Security**, and **DevOps**  
+📫 
+📫 
 
 ---
 
