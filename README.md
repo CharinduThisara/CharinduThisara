@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 What I'm Up To
+
 - 📘 Learning advanced **CSE** topics  
 - 🛠️ Building **Full-Stack** & **DevOps** projects  
 - 🤝 Open to collaborate on **Java / DevOps** work
@@ -29,34 +30,39 @@
 
 - CI/CD • Docker • Kubernetes  
 - Terraform • Helm • AWS/Azure/GCP  
-- Monitoring: Prometheus & Grafana
+- Monitoring with Prometheus/Grafana
 
 ---
 
 ## 🧰 Tools & Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="35" />
 </p>
 
 ---
 
-<details>
-<summary>📈 GitHub Stats</summary>
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharinduThisara&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharinduThisara&layout=compact&theme=radical" width="48%" />
 </p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharinduThisara&theme=radical" width="60%" />
+</p>
+
+---
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=CharinduThisara&style=flat-square&color=blue" alt="Visitor Count"/>
